@@ -18,7 +18,7 @@ const Headers = () =>{
                 <div className="c2">
                     <span  className="dec">For Enterprises </span>
                     <span className="dec">For Students</span>
-                    <span href="" className="dec chnageColor">Log In</span>
+                    <span className="dec chnageColor">Log In</span>
 
                 <button className="cm btn1 ">Join for Free</button>
                 {/* <button className="cm btn">Log In</button>
