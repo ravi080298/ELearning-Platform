@@ -1,0 +1,19 @@
+.footer-container{
+    display: inline-flex;
+    height: 600px;
+    width: 100%;
+    background-color: #F8F8F8;
+    /* margin-left: 50px; */
+    padding: 0% 5%;
+}
+.footer-container1{
+    margin-top: 50px;
+    padding: 0px 35px 0px 35px;
+    text-align: left;
+}
+.footer-header{
+    font-weight: 600;
+}
+.footer-text{
+    padding: 0px 18px 10px 0px;
+}

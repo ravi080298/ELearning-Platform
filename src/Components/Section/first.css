@@ -1,0 +1,38 @@
+.section-container1{
+    text-align: left;
+    margin-top: 120px;
+    width: 80%;
+    /* margin-left: 15%; */
+    
+}
+.f-w{
+    font-size: 80px;
+    font-weight: 600;
+    margin: 0px;
+    padding: 0px;
+    font-family: Source Sans Pro,Arial,sans-serif;
+    margin-left: 15%;
+}
+.text-css{
+    font-size: 20px;
+    font-family: Source Sans Pro,Arial,sans-serif;
+    margin-left: 15%;
+}
+.btn{
+    padding: 15px 32px;
+    border-radius: 5px;
+    font-size: 25px;
+    color: white;
+    background-color: blue;
+    margin-left: 15%;
+}
+.sec2{
+    float: right;
+}
+.img-css{
+    position: absolute;
+    top: 75px;
+    left: 900px;
+    width: 450px;
+    height: 450px;
+}

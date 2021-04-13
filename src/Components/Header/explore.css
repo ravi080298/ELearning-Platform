@@ -1,0 +1,14 @@
+.expo-css{
+    height: 35px;
+}
+select{
+    font-size: 15px;
+    color: white;
+    background-color: rgb(54, 54, 235);
+    border-radius: 5px;
+}
+select:hover{
+    color: blue;
+    background-color: white;
+  
+}
